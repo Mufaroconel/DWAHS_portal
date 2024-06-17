@@ -1,6 +1,8 @@
 import streamlit as st
 import datetime
 img_path = "Assets/QCImage.png"
+# read the image
+image = plt.imread(image_path)
 # Function to initialize session state
 def init_session_state():
     if 'step' not in st.session_state:
@@ -82,6 +84,7 @@ def additional_information():
 # Main function
 def main():
     init_session_state()
+    st.image(image, caption='My Image', use_column_width=True)
     st.sidebar.markdown(
         f"""
         <div style="padding: 10px 0;">
