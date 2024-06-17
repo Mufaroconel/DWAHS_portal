@@ -63,7 +63,7 @@ The DWAHS (Drinking Water Access and Hygiene Survey) web portal is designed to c
 | water_access_challenges | VARCHAR(255)| Factors affecting access to clean water (seasonal variations, water rationing, etc.) |
 
 ## Website Link
-!(https://dwahsapppy-xchm3wievezky3qqf6hwcc.streamlit.app/)[Click_me]
+![Click_me](https://dwahsapppy-xchm3wievezky3qqf6hwcc.streamlit.app/)
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
