@@ -85,7 +85,7 @@ def main():
     st.sidebar.markdown(
         f"""
         <div style="padding: 10px 0;">
-            <img src="data:image/png;base64,{img_path}" alt="icon" style="width:50px;">
+            <img src="data:image/png;base64,{img_path}" alt="" style="width:50px;">
             <h1 style="margin-top: 10px; font-size: 1.5rem;">Quantacrusaders</h1>
         </div>
         """,
