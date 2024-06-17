@@ -1,6 +1,6 @@
 import streamlit as st
 import datetime
-
+img_path = "Assets/QCImage.png"
 # Function to initialize session state
 def init_session_state():
     if 'step' not in st.session_state:
