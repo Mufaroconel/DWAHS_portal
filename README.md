@@ -6,7 +6,7 @@
 
 ## Overview
 
-The DWAHS (Drinking Water Access and Hygiene Survey) web portal is designed to collect data on household water access, treatment practices, hygiene habits, and health history. This data will be used to investigate the correlation between clean water access and cholera vulnerabilities in different regions. The web portal is built using Streamlit for an easy-to-use, interactive web interface.
+The DWAHS (Drinking Water Access and Hygiene Survey) web portal is designed to collect data on household water access, treatment practices, hygiene habits, and health history. This data will be used to investigate the correlation between clean water access and cholera vulnerabilities in different regions.
 
 ## Features
 
