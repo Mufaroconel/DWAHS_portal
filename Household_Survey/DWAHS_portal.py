@@ -85,7 +85,7 @@ def main():
     st.sidebar.markdown(
         """
         <img src="/Users/macbook/Desktop/Quanta_Datasets/DWAHS/Household_Survey/Assets/QCImage.png" alt="Icon" style="width: 50px;">
-        <h1>Quantacrusaders</h1>
+        <h1>Quantacrusads</h1>
         """,
         unsafe_allow_html=True
         
